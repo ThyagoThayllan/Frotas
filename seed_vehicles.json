@@ -1,0 +1,82 @@
+[
+    {
+        "brand": "Toyota",
+        "chassis": "9BWZZZ377VT004251",
+        "license_plate": "ABC1D23",
+        "model": "Corolla",
+        "renavam": "00123456789",
+        "year": 2022
+    },
+    {
+        "brand": "Toyota",
+        "chassis": "9BWZZZ377VT004252",
+        "license_plate": "ABC2D24",
+        "model": "Hilux",
+        "renavam": "00123456790",
+        "year": 2023
+    },
+    {
+        "brand": "Honda",
+        "chassis": "1HGCM82633A004352",
+        "license_plate": "DEF4G56",
+        "model": "Civic",
+        "renavam": "00234567890",
+        "year": 2021
+    },
+    {
+        "brand": "Honda",
+        "chassis": "1HGCM82633A004353",
+        "license_plate": "DEF5G57",
+        "model": "HR-V",
+        "renavam": "00234567891",
+        "year": 2022
+    },
+    {
+        "brand": "Volkswagen",
+        "chassis": "3VWFE21C04M000001",
+        "license_plate": "GHI7J89",
+        "model": "Golf",
+        "renavam": "00345678901",
+        "year": 2023
+    },
+    {
+        "brand": "Volkswagen",
+        "chassis": "3VWFE21C04M000002",
+        "license_plate": "GHI8J90",
+        "model": "Polo",
+        "renavam": "00345678902",
+        "year": 2021
+    },
+    {
+        "brand": "Ford",
+        "chassis": "1FTFW1EF0EKE76917",
+        "license_plate": "JKL0M12",
+        "model": "Ranger",
+        "renavam": "00456789012",
+        "year": 2020
+    },
+    {
+        "brand": "Chevrolet",
+        "chassis": "1G1ZT53806F109149",
+        "license_plate": "MNO3P45",
+        "model": "Onix",
+        "renavam": "00567890123",
+        "year": 2022
+    },
+    {
+        "brand": "Chevrolet",
+        "chassis": "1G1ZT53806F109150",
+        "license_plate": "MNO4P46",
+        "model": "S10",
+        "renavam": "00567890124",
+        "year": 2023
+    },
+    {
+        "brand": "Fiat",
+        "chassis": "ZFA19900006109876",
+        "license_plate": "PQR6S78",
+        "model": "Strada",
+        "renavam": "00678901234",
+        "year": 2021
+    }
+]
