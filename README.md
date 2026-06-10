@@ -155,11 +155,3 @@ src/
     ├── entities/    # BaseEntity: id UUID, timestamps, created_by
     └── filters/     # HttpExceptionFilter — erros padronizados
 ```
-
-### Regras de negócio implementadas
-
-- `license_plate`, `chassis` e `renavam` únicos por veículo — 409 em duplicatas
-- `model_id` deve referenciar um modelo existente — 404 se não encontrado
-- Marca e modelo não podem ser removidos se possuírem registros vinculados — 409
-- `created_by` preenchido automaticamente a partir do token JWT, nunca do body
-- Senhas armazenadas com hash bcrypt
